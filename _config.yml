@@ -17,7 +17,7 @@ description: >  # this symbol ignores newlines
 
 # --- general settings ---
 
-email: sj@magic.rit.edu
+email: jclgsl@rit.edu
 github-repo: "https://github.com/FOSSRIT/fossrit.github.io"
 seo_keywords: >  # this symbol ignores newlines
   "FOSS@MAGIC",
@@ -63,6 +63,6 @@ plugins:
 # --- meeting schedule settings ---
 
 # They appear exactly as typed. Follow the format already here when updating.
-meeting-day: Wednesday
+meeting-day: Monday
 meeting-place: SHED makerspace computer lab (room 1350)
-meeting-time: 6:00PM - 8:00PM
+meeting-time: 5:30PM - 7:00PM
