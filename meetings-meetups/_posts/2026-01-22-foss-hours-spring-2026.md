@@ -7,7 +7,7 @@ location: "SHED-1350"
 title: "FOSS Hours"
 date-except: "2026-03-09 17:30"
 sitemap: false
-rrule: "FREQ=WEEKLY;UNTIL=20260420T000000"
+rrule: "FREQ=WEEKLY;UNTIL=20260427T000000"
 ---
 Come meet other students and faculty involved with FOSS efforts at RIT!
 
