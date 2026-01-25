@@ -13,7 +13,7 @@ Be sure to sign up for our [mailing list](https://lists.fedoraproject.org/admin/
 Want to take the extra step?
 Look into our [FOSS minor and FOSS-related classes](https://www.rit.edu/study/free-and-open-source-software-and-free-culture-minor).
 
-Looking for more information? Email Prof. Stephen Jacobs at {{ site.email }}.
+Looking for more information? Email Prof. Jessica Liberman at {{ site.email }}.
 
 
 ##### Discussion
