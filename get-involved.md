@@ -11,9 +11,9 @@ Come meet other students and faculty involved with FOSS efforts at RIT!
 Be sure to sign up for our [mailing list](https://lists.fedoraproject.org/admin/lists/fossrit.lists.fedorahosted.org/ "FOSS@MAGIC mailing list") to keep updated with events, news, and community discussions.
 
 Want to take the extra step?
-Look into our [FOSS minor and FOSS-related classes](https://www.rit.edu/study/free-and-open-source-software-and-free-culture-minor).
+Look into our [FOSS-related classes](https://www.rit.edu/study/free-culture-and-free-and-open-source-computing-immersion).
 
-Looking for more information? Email Prof. Jessica Liberman at {{ site.email }}.
+Looking for more information? Email Prof. Jessica Lieberman at {{ site.email }}.
 
 
 ##### Discussion
