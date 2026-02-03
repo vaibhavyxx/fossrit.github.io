@@ -86,3 +86,4 @@ Although the name has changed to Open@RIT, the organization is still involved wi
 * Michael Nolan
 * Justin Flory
 * Joshua Talbot
+* Vaibhavy Darshan
