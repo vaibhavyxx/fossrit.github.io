@@ -46,12 +46,12 @@ RIT LibreCorps has been partnered intermittently with the [UNICEF Office of Inno
 As a successful pilot, LibreCorps reached up to 24 supported faculty-driven software projects!
 
 ## (Discontinued) FOSS Minor
-Beginning of the Fall 2014 Semester, Rochester Institute of Technology started to offer the first minor in Free and Open Source Software and Free Culture. The minor was brought about by additional courses offered by the School of Interactive Games and Media ([IGM](https://www.rit.edu/computing/school-interactive-games-and-media)). However, following Stephen Jacob's retirement, this minor has been discontinued. Although, the immersion still exists but it is now managed by the ([Institute for Interdisclipinary Innovation.](https://www.rit.edu/liberalarts/institute-interdisciplinary-innovation))
+Beginning of the Fall 2014 Semester, Rochester Institute of Technology started to offer the first minor in Free and Open Source Software and Free Culture. The minor was brought about by additional courses offered by the School of Interactive Games and Media ([IGM](https://www.rit.edu/computing/school-interactive-games-and-media)). However, following Stephen Jacob's retirement, this minor has been discontinued. Although, the immersion still exists but it is now managed by the ([Institute for Interdisciplinary Innovation.](https://www.rit.edu/liberalarts/institute-interdisciplinary-innovation))
 
 ## FOSS Immersion
 
 Rochester Institute of Technology offers immersion in [Free and Open Source Software and Free Culture](https://www.rit.edu/study/free-culture-and-free-and-open-source-computing-immersion).
-The immersion is offered by the ([Institute for Interdisclipinary Innovation.](https://www.rit.edu/liberalarts/institute-interdisciplinary-innovation))
+The immersion is offered by the ([Institute for Interdisciplinary Innovation.](https://www.rit.edu/liberalarts/institute-interdisciplinary-innovation))
 
 ## FOSS@MAGIC
 
